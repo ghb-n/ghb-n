@@ -16,6 +16,7 @@ I'm a backend developer expanding skills from PHP/Laravel to Rust & Go.
 
 - Chat Platform
 - Python Library [FynTool](https://github.com/FynChat/FynTool)
+- Fyn1x - A Python tool to orchestrate AI Agents
 
 ## 🌱 I'm currently learning
 
